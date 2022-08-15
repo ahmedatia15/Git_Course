@@ -4,4 +4,5 @@ first time use git and learning
 
 
 
-##project notes
+<h3>project notes</h3>
+
